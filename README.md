@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as an IT teacher at the Hefei GuiYang Road Primary School.\
 ⚡ &nbsp;In my free time, I pursue basketball and swimming as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at jiller@126.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at jiller@126.com! I'll try to respond as soon as I can.\
 <!--
 **goshinh/goshinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 
-![微信打赏二维码](/assets/wechat.png)
+![微信打赏二维码](assets/wechat.png)
 
-![支付宝打赏二维码](https://github.com/goshinh/goshinh/blob/main/assets/alipay.jpg)
+![支付宝打赏二维码](assets/alipay.jpg)
+
+
 
