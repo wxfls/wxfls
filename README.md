@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### :moneybag: &nbsp;Donate Me
 | 微信 | 支付宝 | Paypal |
 | :---         |     :---:      |          ---: |
-| ![](/assets/alipay.jpg)   | git status     | git status    |
+| git status   | git status     | git status    |
 
 ![微信打赏二维码](/assets/wechat.png)
 
