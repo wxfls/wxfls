@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 ### :moneybag: &nbsp;Donate Me
 | 微信 | 支付宝 | Paypal |
 | :---         |     :---:      |          ---: |
-| ![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/wechat.png)   | git status     | git status    |
+| ![](/assets/alipay.jpg)   | git status     | git status    |
 
-![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/wechat.png)
+![](/assets/wechat.png)
 
-![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/alipay.jpg)
+![](/assets/alipay.jpg)
 
