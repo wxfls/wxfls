@@ -59,3 +59,13 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/goshinh"><img src="https://img.shields.io/badge/-@goshinh-1769FF?style=flat-square&logo=qq&logoColor=EB1923"/></a>
 </p>
+
+### :moneybag: &nbsp;Donate Me
+| 微信 | 支付宝 | Paypal |
+| :---         |     :---:      |          ---: |
+| ![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/wechat.png)   | git status     | git status    |
+
+![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/wechat.png)
+
+![](https://github.com/goshinh/goshinh.github.io/blob/master/medias/reward/alipay.jpg)
+
