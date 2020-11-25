@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 | :---         |     :---:      |          ---: |
 | ![](/assets/alipay.jpg)   | git status     | git status    |
 
-![](/assets/wechat.png)
+![微信打赏二维码](/assets/wechat.png)
 
-![](/assets/alipay.jpg)
+![支付宝打赏二维码](https://github.com/goshinh/goshinh/blob/main/assets/alipay.jpg)
 
