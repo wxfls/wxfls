@@ -69,5 +69,7 @@ Here are some ideas to get you started:
 
 ![支付宝打赏二维码](assets/alipay.jpg)
 
+![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2335302937,1904588280&fm=26&gp=0.jpg)
+
 
 
