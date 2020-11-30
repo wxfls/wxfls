@@ -65,11 +65,10 @@ Here are some ideas to get you started:
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 
-![微信打赏二维码](assets/wechat.png)
+![](assets/wechat.png)
 
-![支付宝打赏二维码](assets/alipay.jpg)
+![](assets/alipay.jpg)
 
-![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2335302937,1904588280&fm=26&gp=0.jpg)
 
 
 
