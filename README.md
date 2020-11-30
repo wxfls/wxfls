@@ -61,9 +61,7 @@ Here are some ideas to get you started:
 </p>
 
 ### :moneybag: &nbsp;Donate Me
-| 微信 | 支付宝 | Paypal |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+
 
 ![](assets/wechat.png)
 
