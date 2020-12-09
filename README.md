@@ -62,11 +62,10 @@ Here are some ideas to get you started:
 
 ### :moneybag: &nbsp;Donate Me
 
+#### alipay
+![](https://goshinh.github.io/medias/reward/alipay.jpg)
 
-![](assets/wechat.png)
+#### webchat
+![](https://goshinh.github.io/medias/reward/wechat.png)
 
 ![](assets/alipay.jpg)
-
-
-
-
