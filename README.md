@@ -1,2 +1,2 @@
 ### Hi there 👋I'm Xinfeng
-To see more info: [My Blog](xinfengwu.github.io)
+To see more info: [My Blog](https://xinfengwu.github.io/)
