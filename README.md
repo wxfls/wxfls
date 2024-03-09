@@ -3,7 +3,7 @@ Hi there 👋I'm Xinfeng!
 💡 &nbsp;I am a person who loves creative things like computer programming, writting and teaching.\
 💼 &nbsp;Used to be a Staff Engineer at totyu.com, but I'm currently working as an IT teacher.\
 👯 &nbsp;I am looking forward to diving into a higher career.\
-✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/).\
+✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.notion.so/xinfengwu/Xinfeng-s-Blog-0fbe142446c64313aeabfcca831f4e42).\
 ⚡ &nbsp;In my free time, I pursue basketball and swimming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at xinfengcanada@gmail.com ! I'll try to respond as soon as I can.\
 
