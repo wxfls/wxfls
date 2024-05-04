@@ -10,16 +10,24 @@ Hi there 👋I'm Xinfeng!
 
 ### 🚧 My Todoist Stats
 <!-- TODO-IST:START -->
+<details>
+ <summary>⌛Some in-progress stuff</summary>
+        
+🏆  Take part in N4 Test on 2024-07-07
+
 🏆  Currently learning **Google IT Automation with Python Professional Certificate**          
         
-⏳  Reading **Python Programming: An Introduction to Computer Science, 3rd Edition**
-<details>
-  <summary>✅ Some completed stuff</summary>
-  <br>
+📚  Reading **Python Programming: An Introduction to Computer Science, 3rd Edition**
 
+</details>
+
+<details>
+ <summary>✅ Some completed stuff</summary>
   
 📚  Completed **Vim 101 Hacks**      
+
 📚  Completed **跟小海龟学Python**  
+
 </details>
 
 <!-- TODO-IST:END -->
