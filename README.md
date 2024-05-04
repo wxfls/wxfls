@@ -12,6 +12,7 @@ Hi there 👋I'm Xinfeng!
 <!-- TODO-IST:START -->
 <details>
  <summary>⌛Some in-progress stuff</summary>
+ 
         
 🏆  Take part in N4 Test on 2024-07-07
 
@@ -23,6 +24,7 @@ Hi there 👋I'm Xinfeng!
 
 <details>
  <summary>✅ Some completed stuff</summary>
+ 
   
 📚  Completed **Vim 101 Hacks**      
 
