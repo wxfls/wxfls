@@ -1,11 +1,11 @@
 Hi there 👋I'm Xinfeng!
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I am a person who loves creative things like computer programming, writing and teaching.\
-💼 &nbsp;Used to be a Staff Engineer at totyu.com, but I'm currently working as an IT teacher.\
-👯 &nbsp;I am looking forward to diving into a higher career.\
-✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.notion.so/xinfengwu/Xinfeng-s-Blog-0fbe142446c64313aeabfcca831f4e42).\
+💼 &nbsp;Used to be a Staff Engineer at totyu.com, and work as an IT teacher.\
+👯 &nbsp;I am looking forward to diving into a new career in Japan.\
+✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in Notion.\
 ⚡ &nbsp;In my free time, I pursue basketball and swimming as hobbies/side hustles.\
-✉️ &nbsp;any freelance work? do reach, [email](mailto:xinfeng.jp@gmail.com) \
+✉️ &nbsp;any IT work? do reach, [email](mailto:xinfeng.jp@gmail.com) \
 💬 &nbsp;ask me about anything, i am happy to help.
 
 ### 🚧 My Todoist Stats
