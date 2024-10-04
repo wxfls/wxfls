@@ -1,7 +1,7 @@
 Hi there 👋I'm Xinfeng!
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I am a person who loves creative things like computer programming, writing and teaching.\
-💼 &nbsp;Used to be a Staff Engineer at totyu.com, and work as an IT teacher.\
+💼 &nbsp;Used to be a Staff Engineer at totyu.com, and later an IT teacher in primary schools.\
 👯 &nbsp;I am looking forward to diving into a new career in Japan.\
 ✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in Notion.\
 ⚡ &nbsp;In my free time, I pursue basketball and swimming as hobbies/side hustles.\
@@ -33,6 +33,15 @@ Hi there 👋I'm Xinfeng!
 </details>
 
 <!-- TODO-IST:END -->
+
+### 🧰 Language Kits
+
+<!--Human Languages -->
+
+![Static Badge](https://img.shields.io/badge/Chinese%20-%20native%20speaker%20-blue)
+![Static Badge](https://img.shields.io/badge/English%20-%20IELTS%206.0-blue)
+![Static Badge](https://img.shields.io/badge/Japanese-JTEST%20E-blue)
+
 
 ### 🧰 Tools Kits
 
