@@ -87,4 +87,4 @@ Hi there 👋I'm Xinfeng!
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xinfengwu&show_icons=true&theme=gotham" alt="xinfengwu" />
 
 
-<code><a href="https://www.buymeacoffee.com/xinfengwu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></code>  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<code><a href="buymeacoffee.com/xinfengjpf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></code>  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
