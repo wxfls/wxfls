@@ -5,7 +5,7 @@ Hi there 👋I'm Xinfeng!
 👯 &nbsp;I am looking forward to diving into a higher career.\
 ✍🏻 &nbsp;I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.notion.so/xinfengwu/Xinfeng-s-Blog-0fbe142446c64313aeabfcca831f4e42).\
 ⚡ &nbsp;In my free time, I pursue basketball and swimming as hobbies/side hustles.\
-✉️ &nbsp;any freelance work? do reach, [email](mailto:xinfengcanada@gmail.com) \
+✉️ &nbsp;any freelance work? do reach, [email](mailto:xinfeng.jp@gmail.com) \
 💬 &nbsp;ask me about anything, i am happy to help.
 
 ### 🚧 My Todoist Stats
